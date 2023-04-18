@@ -1,0 +1,214 @@
+[
+  {
+    "id": "css-prettify",
+    "zh": {
+      "$name": "CSS 格式化",
+      "$description": "格式美化化 CSS 代码",
+      "$keywords": ["格式化", "美化", "排版", "验证", "校验"]
+    },
+    "en": {
+      "$name": "CSS Prettify",
+      "$description": "Format/Prettify CSS code",
+      "$keywords": [
+        "CSS",
+        "beautify",
+        "pretty",
+        "prettify",
+        "fmt",
+        "format",
+        "formatter",
+        "validate",
+        "validator"
+      ]
+    },
+    "de": {
+      "$name": "CSS -Formatisierung",
+      "$description": "CSS -Code für Formatverschönerung",
+      "$keywords": [
+        "Format",
+        "verschönern",
+        "Artensett",
+        "verifizieren",
+        "überprüfen"
+      ]
+    },
+    "es": {
+      "$name": "Formatización de CSS",
+      "$description": "Código CSS de embellecimiento de formato",
+      "$keywords": [
+        "formato",
+        "embellecer",
+        "tipografía",
+        "verificar",
+        "controlar"
+      ]
+    },
+    "fr": {
+      "$name": "Formatisation CSS",
+      "$description": "Format Code CSS d'embellissement",
+      "$keywords": ["format", "embellir", "typographie", "vérifier", "vérifier"]
+    },
+    "it": {
+      "$name": "Formatizzazione CSS",
+      "$description": "Codice CSS di abbellimento del formato",
+      "$keywords": [
+        "formato",
+        "abbellire",
+        "composizione",
+        "verificare",
+        "controllo"
+      ]
+    },
+    "ja": {
+      "$name": "CSS形式",
+      "$description": "Beautification CSSコードをフォーマットします",
+      "$keywords": ["フォーマット", "美化します", "組版", "確認", "チェック"]
+    },
+    "ko": {
+      "$name": "CSS 형식화",
+      "$description": "미화 CSS 코드 형식",
+      "$keywords": ["체재", "멋있게 하다", "조판", "확인하다", "확인하다"]
+    },
+    "pt": {
+      "$name": "Formatização CSS",
+      "$description": "Formato de embelezamento CSS Código",
+      "$keywords": ["formatar", "embelezar", "TIPO", "verificar", "verificar"]
+    },
+    "ru": {
+      "$name": "Форматизация CSS",
+      "$description": "Формат украшения CSS Code",
+      "$keywords": ["формат", "украсить", "набор", "проверять", "проверять"]
+    },
+    "zh-tw": {
+      "$name": "CSS 格式化",
+      "$description": "格式美化化 CSS 代碼",
+      "$keywords": ["格式化", "美化", "排版", "驗證", "校驗"]
+    },
+    "zh-cn": {
+      "$name": "CSS 格式化",
+      "$description": "格式美化化 CSS 代码",
+      "$keywords": ["格式化", "美化", "排版", "验证", "校验"]
+    }
+  },
+  {
+    "id": "less-to-css",
+    "en": {
+      "$name": "Less to CSS",
+      "$description": "Render Less code to CSS",
+      "$keywords": ["less", "css", "compile", "render"]
+    },
+    "zh-cn": {
+      "$name": "Less 转 CSS",
+      "$description": "Less 转 CSS",
+      "$keywords": ["编译", "渲染"]
+    },
+    "zh-tw": {
+      "$name": "Less 转 CSS",
+      "$description": "Less 转 CSS",
+      "$keywords": ["編譯", "渲染"]
+    },
+    "ko": {
+      "$name": "Less to CSS",
+      "$description": "Render Less code to CSS",
+      "$keywords": ["엮다"]
+    },
+    "ja": {
+      "$name": "Less to CSS",
+      "$description": "Render Less code to CSS",
+      "$keywords": ["コンパイル"]
+    },
+    "de": {
+      "$name": "Less to CSS",
+      "$description": "Render Less code to CSS",
+      "$keywords": ["kompilieren"]
+    },
+    "fr": {
+      "$name": "Less to CSS",
+      "$description": "Render Less code to CSS",
+      "$keywords": ["compiler"]
+    },
+    "it": {
+      "$name": "Less to CSS",
+      "$description": "Render Less code to CSS",
+      "$keywords": ["compilare"]
+    },
+    "pt": {
+      "$name": "Less to CSS",
+      "$description": "Render Less code to CSS",
+      "$keywords": ["CSS", "compilar"]
+    },
+    "ru": {
+      "$name": "Less to CSS",
+      "$description": "Render Less code to CSS",
+      "$keywords": ["компилировать"]
+    },
+    "es": {
+      "$name": "Less to CSS",
+      "$description": "Render Less code to CSS",
+      "$keywords": ["compilar"]
+    }
+  },
+  {
+    "id": "unicode-decode",
+    "zh": {
+      "$name": "Unicode 解码",
+      "$description": "将 Unicode 解码为文本",
+      "$keywords": ["解码"]
+    },
+    "en": {
+      "$name": "Unicode Decode",
+      "$description": "Decodes unicode into text",
+      "$keywords": ["unicode", "decode"]
+    },
+    "de": {
+      "$name": "Unicode -Dekodierung",
+      "$description": "Dekodieren von Unicode als Text",
+      "$keywords": ["Dekodierung"]
+    },
+    "es": {
+      "$name": "Decodificación unicode",
+      "$description": "Decodificar unicode como texto",
+      "$keywords": ["descodificación"]
+    },
+    "fr": {
+      "$name": "Décodage Unicode",
+      "$description": "Décodage Unicode comme texte",
+      "$keywords": ["décodage"]
+    },
+    "it": {
+      "$name": "Decodifica Unicode",
+      "$description": "Decodifica Unicode come testo",
+      "$keywords": ["decodifica"]
+    },
+    "ja": {
+      "$name": "ユニコードデコード",
+      "$description": "Unicodeをテキストとして解読します",
+      "$keywords": ["デコード"]
+    },
+    "ko": {
+      "$name": "유니 코드 디코딩",
+      "$description": "텍스트로 유니 코드를 디코딩합니다",
+      "$keywords": ["디코딩"]
+    },
+    "pt": {
+      "$name": "Unicode decodificação",
+      "$description": "Decodificar unicode como texto",
+      "$keywords": ["decodificação"]
+    },
+    "ru": {
+      "$name": "Декодирование Unicode",
+      "$description": "Декодирование Unicode как текст",
+      "$keywords": ["декодирование"]
+    },
+    "zh-tw": {
+      "$name": "Unicode 解碼",
+      "$description": "將 Unicode 解碼為文本",
+      "$keywords": ["解碼"]
+    },
+    "zh-cn": {
+      "$name": "Unicode 解码",
+      "$description": "将 Unicode 解码为文本",
+      "$keywords": ["解码"]
+    }
+  }
+]
