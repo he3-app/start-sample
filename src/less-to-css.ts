@@ -1,4 +1,3 @@
-// Write by GPT4
 import { transformTool } from '@he3-kit/utils';
 import less from 'less';
 
